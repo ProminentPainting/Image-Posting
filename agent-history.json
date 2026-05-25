@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1779693918481",
+    "timestamp": "2026-05-25T07:25:18.481Z",
+    "status": "success",
+    "details": "Image added to Media Library successfully (ID: 19216)",
+    "imageUrl": "https://prominentpainting.com/wp-content/uploads/2026/05/daily-art-1779693911174.jpg"
+  },
+  {
+    "id": "1779607314150",
+    "timestamp": "2026-05-24T07:21:54.150Z",
+    "status": "success",
+    "details": "Image added to Media Library successfully (ID: 19195)",
+    "imageUrl": "https://prominentpainting.com/wp-content/uploads/2026/05/daily-art-1779607306141.jpg"
+  },
+  {
+    "id": "1779516851769",
+    "timestamp": "2026-05-23T06:14:11.769Z",
+    "status": "success",
+    "details": "Image added to Media Library successfully (ID: 19166)",
+    "imageUrl": "https://prominentpainting.com/wp-content/uploads/2026/05/daily-art-1779516846507.jpg"
+  },
+  {
+    "id": "1779431840776",
+    "timestamp": "2026-05-22T06:37:20.776Z",
+    "status": "success",
+    "details": "Image added to Media Library successfully (ID: 19118)",
+    "imageUrl": "https://prominentpainting.com/wp-content/uploads/2026/05/daily-art-1779431833919.jpg"
+  },
+  {
+    "id": "1779377201054",
+    "timestamp": "2026-05-21T15:26:41.054Z",
+    "status": "success",
+    "details": "Image added to Media Library successfully (ID: 19088)",
+    "imageUrl": "https://prominentpainting.com/wp-content/uploads/2026/05/daily-art-1779377193706.jpg"
+  },
+  {
+    "id": "1779377085769",
+    "timestamp": "2026-05-21T15:24:45.769Z",
+    "status": "error",
+    "details": "Exception during execution: Media upload failed: 500 {\"code\":\"rest_upload_sideload_error\",\"message\":\"Sorry, you are not allowed to upload this file type.\",\"data\":{\"status\":500}}"
+  }
+]

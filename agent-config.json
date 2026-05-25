@@ -1,0 +1,8 @@
+{
+  "scheduleTime": "07:00",
+  "promptTemplate": "A {subject}, in the style of {movement} by {artist}, using a {palette} color palette.",
+  "webhookUrl": "https://prominentpainting.com/wp-json/wp/v2/media",
+  "wpUsername": "howardfarmer",
+  "webhookToken": "6cVL Anvv cINh 6671 KS2p GX52",
+  "isActive": true
+}

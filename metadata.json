@@ -1,0 +1,6 @@
+{
+  "name": "Daily Image Poster",
+  "description": "An agent that generates a daily image using Gemini and posts it to a configured website webhook.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
